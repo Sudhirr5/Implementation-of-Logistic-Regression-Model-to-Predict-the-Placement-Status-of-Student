@@ -61,10 +61,12 @@ cm_display.plot()
 ## Output:
 
 # Accuracy Score and Classification Report:
+![318471778-68deed47-49c3-4ed8-9e4c-6e81487f0695](https://github.com/Sudhirr5/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139332214/17b52848-c56e-4ea1-a43c-c0bd340a3887)
 
 
 
 # Displaying:
+![318472001-db672498-33da-4ef7-834c-6ef64eddd800](https://github.com/Sudhirr5/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139332214/68b04022-931f-4a1e-8ad0-97f649d90940)
 
 
 
